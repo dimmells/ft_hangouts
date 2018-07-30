@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ft_hangouts</string>
+    <string name="save">Save</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="e_mail">E-mail</string>
+    <string name="no_contact">Press + to create contact</string>
+    <string name="title_activity_contact">activity_contact</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_edit_contact">EditContactActivity</string>
+    <string name="edit_contact">EDIT</string>
+    <string name="message">Message</string>
+    <string name="set_color">Set color</string>
+</resources>
